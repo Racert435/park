@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/static/js/main.e330128b.chunk.js",
-    "main.js.map": "/static/js/main.e330128b.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.ed26ab12.js",
-    "runtime-main.js.map": "/static/js/runtime-main.ed26ab12.js.map",
-    "static/css/2.c4411659.chunk.css": "/static/css/2.c4411659.chunk.css",
-    "static/js/2.9823d17e.chunk.js": "/static/js/2.9823d17e.chunk.js",
-    "static/js/2.9823d17e.chunk.js.map": "/static/js/2.9823d17e.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.c4411659.chunk.css.map": "/static/css/2.c4411659.chunk.css.map",
-    "static/css/main.8c8b27cf.chunk.css.map": "/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.9823d17e.chunk.js.LICENSE.txt": "/static/js/2.9823d17e.chunk.js.LICENSE.txt",
-    "static/media/dinero.5cbd9a76.png": "/static/media/dinero.5cbd9a76.png",
-    "static/media/lupa.fdddb590.png": "/static/media/lupa.fdddb590.png",
-    "static/media/paloma.996cf16d.png": "/static/media/paloma.996cf16d.png"
+    "main.css": "/park/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/park/static/js/main.e330128b.chunk.js",
+    "main.js.map": "/park/static/js/main.e330128b.chunk.js.map",
+    "runtime-main.js": "/park/static/js/runtime-main.87cea4a6.js",
+    "runtime-main.js.map": "/park/static/js/runtime-main.87cea4a6.js.map",
+    "static/css/2.c4411659.chunk.css": "/park/static/css/2.c4411659.chunk.css",
+    "static/js/2.2c33b7b0.chunk.js": "/park/static/js/2.2c33b7b0.chunk.js",
+    "static/js/2.2c33b7b0.chunk.js.map": "/park/static/js/2.2c33b7b0.chunk.js.map",
+    "index.html": "/park/index.html",
+    "static/css/2.c4411659.chunk.css.map": "/park/static/css/2.c4411659.chunk.css.map",
+    "static/css/main.8c8b27cf.chunk.css.map": "/park/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.2c33b7b0.chunk.js.LICENSE.txt": "/park/static/js/2.2c33b7b0.chunk.js.LICENSE.txt",
+    "static/media/dinero.5cbd9a76.png": "/park/static/media/dinero.5cbd9a76.png",
+    "static/media/lupa.fdddb590.png": "/park/static/media/lupa.fdddb590.png",
+    "static/media/paloma.996cf16d.png": "/park/static/media/paloma.996cf16d.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.ed26ab12.js",
+    "static/js/runtime-main.87cea4a6.js",
     "static/css/2.c4411659.chunk.css",
-    "static/js/2.9823d17e.chunk.js",
+    "static/js/2.2c33b7b0.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
     "static/js/main.e330128b.chunk.js"
   ]
